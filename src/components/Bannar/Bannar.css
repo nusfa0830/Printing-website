@@ -1,0 +1,20 @@
+
+.know{
+font-weight: 600;
+background-color: rgb(27, 27, 95);
+color: white;
+}
+.know:hover{
+    color: white;
+background-color: rgb(245, 107, 58);
+border: 0px;
+}
+.product{
+   
+    border: 2px solid;
+}
+.product:hover{
+    color: white;
+    background-color: rgb(245, 107, 58);
+    border: 0px;  
+}

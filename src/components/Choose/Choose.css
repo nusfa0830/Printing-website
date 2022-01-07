@@ -1,0 +1,14 @@
+.chose{
+     transition-property: width;  
+      transition-duration: 10s;
+    transition-timing-function: linear ease-in ;
+}
+
+
+.chose:hover{
+    color: white;
+    background-color: darkorange;
+ height: auto;  
+ 
+
+}
